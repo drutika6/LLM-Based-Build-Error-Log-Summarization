@@ -1,0 +1,9 @@
+
+[INFO] Starting Maven build...
+[INFO] Compiling source files...
+[ERROR] COMPILATION ERROR:
+[ERROR] App.java:[18,25] cannot find symbol
+[ERROR] symbol: variable userName
+[ERROR] location: class App
+[INFO] BUILD FAILURE
+[INFO] Total time: 4.2 seconds
